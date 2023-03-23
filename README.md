@@ -7,3 +7,4 @@ link to the index.html: http://104.214.233.32/index.html or http://104.214.233.3
 Link to ApacheTomcat: http://104.214.233.32:8080/
 
 for Ansible installation in Ubuntu check Ansible.sh
+
